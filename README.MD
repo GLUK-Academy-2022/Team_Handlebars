@@ -2,4 +2,4 @@
 ## python 3.10.7
 ## FLASK 2.2.2
 ## pip3 install flask
-## to RUN APP you need to be in API directory and run python3 main.py and specify localhost:/hello
+## to RUN APP you need to be in API directory and run python3 main.py and specify localhost:5533/hello
