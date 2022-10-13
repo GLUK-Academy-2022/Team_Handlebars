@@ -1,5 +1,6 @@
 # Prerequisites
 Download docker desktop
+Initialise git branch if not already done in desired folder: **git init**
 
 # To run application
 In your terminal:
