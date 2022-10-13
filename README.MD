@@ -1,9 +1,9 @@
-# to run this app we need
-## python 3.10.7
-## FLASK 2.2.2
-# then write in the terminal
-## pip3 install flask
+# Prerequisites
+Download docker desktop
 
-# Next we will run the app in the terminal:
-## Ensure you are in the directory where main.py is and run "python3 main.py"
-## Navigate to localhost:5533/hello in your browser
+# To run application
+In your terminal:
+1. First clone the repo: *Git Clone https://github.com/GLUK-Academy-2022/Team_Handlebars.git*
+2. change directory into Team_Handlebars: *cd Team_Handlebars*
+3. Type the following command: docker-compose up
+4. navigate to the following URL: localhost:5050/hello
