@@ -1,8 +1,6 @@
 # Prerequisites
 Download docker desktop
 
-Initialise git branch if not already done in desired folder: **git init**
-
 # To run application
 In your terminal:
 1. First clone the repo: **Git Clone https://github.com/GLUK-Academy-2022/Team_Handlebars.git**
