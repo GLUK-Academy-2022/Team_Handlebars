@@ -10,6 +10,4 @@ COPY main.py ./
 
 EXPOSE 5050
 
-ENTRYPOINT ["python"]
-
-CMD ["main.py"]
+CMD ["python", "main.py"]
